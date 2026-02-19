@@ -1,0 +1,26 @@
+Dear Ahmed and Hassan,
+
+I hope you are doing well.
+
+Following our recent discussions with Shahid regarding Ansar Gallery’s 10-Year Budget Framework Strategy, we would like to formally align on the next steps.
+
+As discussed, this strategic framework is designed to ensure that both Backend and Frontend systems are properly structured, scalable, and fully aligned with Ansar Gallery’s long-term operational and financial roadmap.
+
+Kingdee has now completed and submitted its quotation covering the Backend scope in line with the proposed strategy.
+
+The remaining component required at this stage is Wincore Front’s detailed Scope of Work (SOW), including:
+
+• Functional coverage for Frontend operations
+• Integration framework with Kingdee Backend
+• Deployment phases aligned with the 10-year roadmap
+• Budget allocation structure
+• Implementation timeline and resource plan
+
+Since Wincore Front falls under your leadership, we kindly request that the SOW be prepared and shared at the earliest convenience so that the full framework can be consolidated and presented accordingly.
+
+This will allow us to finalize the strategic alignment and move forward with structured execution.
+
+Looking forward to your prompt response.
+
+Best regards,
+Saad Latheefa Rasheed
